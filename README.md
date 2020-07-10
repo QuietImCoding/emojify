@@ -9,6 +9,6 @@ Use emojis! These youngsters will think nothing of your app sending lots of text
 
 ## Usage ##
 
-`python3 emojify.py to emojify.py example.txt
+`python3 emojify.py to emojify.py example.txt`
 
-python3 emojify.py from example.txt`
+`python3 emojify.py from example.txt`
